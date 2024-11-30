@@ -1,0 +1,8 @@
+008 ; Computadora ; Dell ; Latitude 5000 ; 000782 ; Feliz Sánchez
+011 ; Celular ; Samsung ; Galaxy note 29 ; 0007 ; Johan
+008 ; Celular ; Iphone ; 15 ; 000123 ; María
+009 ; TV ; LG ; l5400 ; 009 ; Josefina
+00078 ; Nevera ; Lg ; f430 ; 001212 ; Miguel Angel
+0111 ; Aire acondicionado ; Avance ; Inverter3301 ; 0101011 ; Elisa
+00812 ; Lavadora ; Samsung ; 09123 ; 0123123123 ; Elena
+01023 ; Ventilador ; Romp ; xm232 ; 0123912 ; Luisa
