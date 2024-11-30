@@ -26,7 +26,7 @@ public class InventarioController {
     @FXML
     private ListView<String> listViewActivos;
     @FXML
-    private TextField nombreActivoField; // Campo de texto para ingresar el nombre del activo
+    private TextField nombreActivoField;
     @FXML
     private TextField descripcionActivoField;
 
@@ -100,7 +100,7 @@ public class InventarioController {
             }
         } catch (IOException e) {
             e.printStackTrace();
-            System.out.println("Error al guardar los activos en el archivo.");
+            System.out.println("No se pudo guardar los activos en el archivo.");
         }
 
     }

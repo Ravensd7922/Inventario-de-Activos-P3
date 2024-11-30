@@ -10,7 +10,7 @@ public class Main extends Application {
     public void start(Stage primaryStage) throws Exception {
         Parent root = FXMLLoader.load(getClass().getResource("InventarioTI.fxml"));
         primaryStage.setTitle("Inventario de Activos");
-        primaryStage.setScene(new Scene(root, 450, 600));
+        primaryStage.setScene(new Scene(root, 600, 600));
         primaryStage.show();
     }
 
